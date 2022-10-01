@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiubsi=self.webpackChunksiubsi||[]).push([[918],{2969:(e,r,s)=>{s.d(r,{Z:()=>n});var i=s(7294);function n(e){let{children:r,color:s}=e;return i.createElement("span",{style:{backgroundColor:s,borderRadius:"7px",color:"#fff",padding:"0.1rem"}},r)}},1769:(e,r,s)=>{s.d(r,{Z:()=>c});s(7294);var i=s(5449),n=s(2969);const c={...i.Z,highlight:n.Z}}}]);
